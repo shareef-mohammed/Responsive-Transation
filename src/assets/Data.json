@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://images.pexels.com/photos/4195342/pexels-photo-4195342.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Aokiji",
+        "date": "28 Feb 2023",
+        "time": "06:23 PM",
+        "amount": "13.00",
+        "status": "Received"
+    },
+    {
+        "image": "https://www.investopedia.com/thmb/LKanNptzaVQ5YxUUqwCZWCJMALc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-540179188-f820573a1328459cb5cedac011088d4c.jpg",
+        "name": "Kizaru",
+        "date": "28 Feb 2023",
+        "time": "06:23 PM",
+        "amount": "9.00",
+        "status": "Outgoing"
+    },
+    {
+        "image": "https://img.money.com/2018/01/warren-buffet-richest.jpg",
+        "name": "Akainu",
+        "date": "28 Feb 2023",
+        "time": "06:23 PM",
+        "amount": "20.00",
+        "status": "Received"
+    }
+]
